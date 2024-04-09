@@ -5,7 +5,7 @@ Tags: e-commerce, ecommerce, product catalog, catalog, store, sales, shop, produ
 Requires at least: 3.7
 Tested up to: 6.5
 Requires PHP: 5.6
-Stable tag: 3.3.33
+Stable tag: 3.3.34
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -389,6 +389,9 @@ This can be a store but it is not limited to it. It's main purpose is to present
 
 Use [EPC Translate Project](https://translate.wordpress.org/projects/wp-plugins/ecommerce-product-catalog "eCommerce Product Catalog Translation Project") to add new or fix the existing translations in eCommerce Product Catalog. Use [Premium EPC Translation Project](https://translate.implecode.com/projects/ "eCommerce Product Catalog Translation Project") for all the extensions.
 
+= 3.3.34 - 09/04/2024 =
+
+* Fix classic editor in WordPress 6.5
 
 = 3.3.33 - 03/04/2024 =
 
